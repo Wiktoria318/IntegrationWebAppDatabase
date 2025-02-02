@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.mostowska.integrationwebapp"},{"l":"pl.polsl.mostowska.integrationwebapp.model"},{"l":"pl.polsl.mostowska.integrationwebapp.resources"},{"l":"pl.polsl.mostowska.integrationwebapp.servlet"}];updateSearchResults();
